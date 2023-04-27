@@ -1,8 +1,7 @@
 <h1>Hi 👋,</h1>
 <h3>Software Architect, Developer - Tech Lead</h3>
 
-**mnevfel@ceobee.dev**
-[https://ceobee.dev](https://ceobee.dev)
+reach : **mnevfel@ceobee.dev**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mnevfel)
 [![](https://visitcount.itsvg.in/api?id=mnevfel&icon=0&color=12)](https://visitcount.itsvg.in)
