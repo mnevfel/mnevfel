@@ -89,7 +89,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnevfel&theme=dark&hide_border=false" alt="mnevfel's streak stats" />
-</p>
+
