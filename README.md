@@ -91,5 +91,5 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnevfel&theme=dark&hide_border=false" alt="mnevfel's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnevfel&theme=light&hide_border=true&border_radius=10" style="width: 100%" alt="mnevfel's streak stats" />
 </p>
