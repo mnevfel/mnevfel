@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nevfel</h1>
-<h3 align="center">Software Architect, Developer - Tech Lead</h3>
+<h1 align="left">Hi 👋, I'm Nevfel</h1>
+<h3 align="left">Software Architect, Developer - Tech Lead</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:mnevfel@ceobee.dev">mnevfel@ceobee.dev</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mnevfel" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://visitcount.itsvg.in" target="blank">
     <img src="https://visitcount.itsvg.in/api?id=mnevfel&icon=0&color=5" alt="Profile Views" />
   </a>
@@ -21,6 +21,7 @@
 
 ### 🛠 Tech Stack:
 - **Languages**: 
+
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
@@ -29,12 +30,14 @@
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - **Cloud Platforms**: 
+
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - **Frameworks and Libraries**: 
+
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
   ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -48,6 +51,7 @@
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 - **Databases**: 
+
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -56,6 +60,7 @@
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 - **DevOps Tools**: 
+
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
@@ -64,6 +69,6 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnevfel&theme=dark&hide_border=false" alt="mnevfel's streak stats" />
 </p>
