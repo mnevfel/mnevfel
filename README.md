@@ -86,10 +86,3 @@
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   ![Prometheus](https://img.shields.io/badge/prometheus-%2343495E.svg?style=for-the-badge&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnevfel&theme=light&hide_border=true&border_radius=10" style="width: 100%" alt="mnevfel's streak stats" />
-</p>
