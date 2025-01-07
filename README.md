@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://visitcount.itsvg.in" target="blank">
-    <img src="https://visitcount.itsvg.in/api?id=mnevfel&icon=0&color=5" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ### 🛠 Tech Stack:
