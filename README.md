@@ -2,7 +2,7 @@
 <h3 align="left">Software Architect, Developer - Tech Lead</h3>
 
 <p align="left">
-  <a href="mailto:mnevfel@ceobee.dev">mnevfel@ceobee.dev</a>
+  <a href="mailto:me@mnevfel.com">me@mnevfel.com</a>
 </p>
 
 <p align="left">
