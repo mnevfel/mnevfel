@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Mustafa</h1>
-<h3 align="left">Software Architect, Developer | DevOps & Automation</h3>
 
 <p align="left">
   <a href="mailto:me@mnevfel.com">me@mnevfel.com</a>
